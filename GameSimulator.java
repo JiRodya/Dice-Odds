@@ -33,8 +33,6 @@ public class GameSimulator {
      * in those 4 casts, then wins is incremented, otherwise losses is
      * incremented. Simulation is run according to the number of tries set.
      */
-
-
     public void runSingleDieSimulation()
     {
         //making sure wins and losses do not hold values from previous runs
@@ -72,8 +70,6 @@ public class GameSimulator {
      * losses is incremented. The simulation is run according to the number of
      * tries set.
      */
-
-
     public void runDoubleDieSimulation()
     {
         //making sure wins and losses do not hold values from previous runs
